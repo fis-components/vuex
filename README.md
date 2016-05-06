@@ -6,10 +6,9 @@
   <img width="700px" src="https://raw.githubusercontent.com/vuejs/vuex/master/docs/en/vuex.png">
 </p>
 
-## NOTE: Vuex is still in development - API may change anytime.
-
-- [Documentation](http://vuex.vuejs.org/)
-- [Great introduction and explanation by @skyronic](http://skyronic.com/2016/01/03/vuex-basics-tutorial/)
+- [Documentation](http://vuejs.github.io/vuex/)
+- [Great introduction and explanation by @skyronic](http://skyronic.com/2016/01/03/vuex-basics-tutorial/) (using outdated 0.3.0 API, but still worth a read!)
+- [Vuex introduction video - James Browne from London Vue.js Meetup #1](https://www.youtube.com/watch?v=l1KHL-TX3qs)
 
 ## Examples
 
@@ -35,4 +34,4 @@ See [npm scripts](https://github.com/vuejs/vuex/blob/master/package.json#L11-L15
 - Reactive
 - Single State Tree
 - Hot Reloading
-- Time Travel (with upcoming vue-devtools support)
+- Time Travel (with [vue-devtools](https://github.com/vuejs/vue-devtools) support)

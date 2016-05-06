@@ -2,9 +2,12 @@
     "name": "vuex",
     "description": "state management for Vue.js",
     "repos": "https://github.com/vuejs/vuex.git",
-    "main": "lib/index.js",
+    "main": "vuex.js",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {},
-    "version": "0.2.0"
+    "version": "0.6.3",
+    "paths": {
+        "dist": "."
+    }
 }
